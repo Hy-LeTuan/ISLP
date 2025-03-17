@@ -1,3 +1,3 @@
 # ISLP
 
-Introduction to Statstical Learning implementations.
+Introduction to Statistical Learning implementations.
